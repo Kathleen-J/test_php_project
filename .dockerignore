@@ -1,0 +1,5 @@
+vendor
+*.md
+.env-example
+.gitignore
+.git
